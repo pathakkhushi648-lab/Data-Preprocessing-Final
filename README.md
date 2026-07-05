@@ -38,7 +38,7 @@ The project uses the following datasets:
 
 ---
 
-#Project pipeline 
+Project pipeline 
 
 Data Collection → Load CSV → Load JSON → Load SQL → Load API → Merge Datasets → Exploratory Data Analysis (EDA) → Missing Value Handling → Outlier Detection & Treatment → Date & Mixed Variable Processing → Categorical Encoding → Feature Scaling → Feature Engineering → Generate Processed Dataset → Machine Learning Ready Dataset
 
