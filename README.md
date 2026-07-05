@@ -38,6 +38,12 @@ The project uses the following datasets:
 
 ---
 
+#Project pipeline 
+
+Data Collection → Load CSV → Load JSON → Load SQL → Load API → Merge Datasets → Exploratory Data Analysis (EDA) → Missing Value Handling → Outlier Detection & Treatment → Date & Mixed Variable Processing → Categorical Encoding → Feature Scaling → Feature Engineering → Generate Processed Dataset → Machine Learning Ready Dataset
+
+Data Collection --> Load CSV --> Load JSON --> Load SQL --> Load API --> Merge Datasets --> EDA --> Missing Value Handling --> Outlier Treatment --> Date & Mixed Variable Processing --> Encoding --> Feature Scaling --> Feature Engineering --> Processed Dataset --> Machine Learning Ready Dataset
+
 # Technologies Used
 
 - Python
@@ -314,6 +320,3 @@ The project integrates data from multiple sources, preprocesses the data using i
 
 Swarna Pathak
 
-Data Analytics and Machine Learning Project
-
-Xrademy Data Science Program
